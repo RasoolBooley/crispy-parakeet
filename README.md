@@ -1,13 +1,9 @@
 # Intro To HTML
 
-HTML, an Introduction to it's make up...
 
-HTML is a hyper text markup language
 
 ## Setting up your workspace
 
-- Open your terminal and launch the command 
-- Create your base folder structure (css,images, js)
 
 ## Live Link
 https://rasoolbooley.github.io/crispy-parakeet/
@@ -38,9 +34,8 @@ Tools:
 ### Changelog
 
 2018-11-15:
-- Base folders added
-- Readme Created
-- Live Link Created
+
+not entirely sure what I'm supposed to put here to be honest
 
 ## Contributors
 
